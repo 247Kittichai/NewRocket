@@ -109,7 +109,7 @@
 		"@google-cloud/storage": "^1.4.0",
 		"aws-sdk": "^2.146.0",
 		"babel-runtime": "^6.26.0",
-		"bcrypt": "^1.0.3",
+		"bcrypt": "^5.0.0",
 		"bunyan": "^1.8.12",
 		"codemirror": "^5.31.0",
 		"core-js": "2.5.1",
