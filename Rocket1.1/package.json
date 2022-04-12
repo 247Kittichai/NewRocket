@@ -100,7 +100,7 @@
 		"postcss-nesting": "^3.0.0",
 		"postcss-selector-not": "^3.0.1",
 		"proxyquire": "^1.8.0",
-		"simple-git": "^1.80.1",
+		"simple-git": "^3.5.0",
 		"stylelint": "^8.2.0",
 		"stylelint-order": "^0.7.0",
 		"supertest": "^3.0.0"
